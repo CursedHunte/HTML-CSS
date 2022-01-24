@@ -1,1 +1,12 @@
-.eee p .bbb{color: red};
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
