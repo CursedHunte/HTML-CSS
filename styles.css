@@ -1,6 +1,1 @@
-.block a.zzz {
-	color: red;
-}
-.block a.zzz:hover {
-	text-decoration: none;
-}
+li:first-child{color:red}
